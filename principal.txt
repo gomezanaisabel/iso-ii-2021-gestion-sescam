@@ -1,3 +1,5 @@
 Este es el comienzo del proyecto
 
 Ya hemos añadido la funcionalidad 
+
+Ahora he mergeado la rama
